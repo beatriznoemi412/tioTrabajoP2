@@ -1,1 +1,4 @@
-hola????
+<<<<<<< HEAD
+=======
+esto es un conflicto
+>>>>>>> 56cc256dbaf21f42280b5ad1ec3205f3b8d3ec24
